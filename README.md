@@ -1,4 +1,4 @@
-![](./imgs/SSSN_title.png)
+![](./imgs/SSSN_title2.png)
 <p align="center"> 
 <a href="" ><img src="https://img.shields.io/badge/HOME-Paper-important.svg"></a>
 <a href="" ><img src="https://img.shields.io/badge/PDF-Paper-blueviolet.svg"></a>
