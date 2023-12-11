@@ -87,3 +87,12 @@ Results on FSS-1000:
 # Results
 
 ![](./imgs/qualitative.jpg)
+# Citation
+If our work is useful for your research, please cite our work
+
+        @ARTICLE{
+         author={Shao, Wenxuan and Qi, Hao and Dong, Xinghui},
+         journal={Pattern Recognition}, 
+         title={A Learnable Support Selection Scheme for Boosting Few-Shot Segmentation}, 
+         year={2023},
+         doi={}}
