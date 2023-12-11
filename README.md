@@ -19,7 +19,7 @@
 
 2. Activate the new environment:
 
-        conda activate uie
+        conda activate sssn
 
 3. Verify that the new environment was installed correctly:
 
